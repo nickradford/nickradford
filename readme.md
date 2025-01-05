@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 I'm a **Senior Full Stack Engineer** based in San Francisco, passionate about building scalable applications with amazing user interfaces and leading innovative projects.
 
 ## 🚀 Tech I Frequently Use
