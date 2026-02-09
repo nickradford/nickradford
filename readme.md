@@ -10,14 +10,15 @@ I'm a **Senior Full Stack Engineer** based in San Francisco, passionate about bu
 ## 📈 Experience
 
 **Heyday (Jan 2023 - Jun 2024)**
--  Led Next.js migration, Tailwind CSS and Typescript adoption.
+- Led Next.js migration, Tailwind CSS and Typescript adoption.
+- Built interactive, AI powered, content generation app using TipTap editor
 
 **Govalo (Nov 2021 - Aug 2022)**
--  Mentored team, established coding conventions.
+- Mentored team, established coding conventions.
 - Implemented asynchronous jobs system for core features.
 
 **Cruise Automation (Oct 2018 - May 2019)**
--  Built internal CI and data visualization tools.
+- Built internal CI and data visualization tools.
 
 [![Resume](https://img.shields.io/badge/-View%20My%20Full%20Resume-4CAF50?logo=read-the-docs&logoColor=white&style=flat)](https://standardresume.co/r/nickradford)
 
